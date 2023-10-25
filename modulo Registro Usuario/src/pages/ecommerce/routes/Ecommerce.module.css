@@ -1,0 +1,10 @@
+.body{
+display: flex;
+flex-direction: column;
+}
+
+.pages{
+    flex: 1;
+    margin-left: 88px;
+    height: 100vh;
+}

@@ -1,0 +1,9 @@
+:root{
+    --body-color:#e4e9f7;
+}
+
+.body{
+    background-color: var(--body-color);
+    height: 100vh;
+    padding: 5px 20px;
+}
